@@ -1,4 +1,4 @@
-# home-page
+# Landing-Page
 
 This a meme page built using HTML and CSS.
 
